@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyApp</string>
+    <string name="hello_world">Hello world!</string>
+	
+	<string name="satu">one</string>
+	<string name="dua">two</string>
+	<string name="tiga">three</string>
+	<string name="empat">four</string>
+	<string name="lima">five</string>
+	<string name="enam">six</string>
+	<string name="tujuh">seven</string>
+	<string name="delapan">eight</string>
+	<string name="sembilan">nine</string>
+	<string name="sepuluh">ten</string>
+	<string name="sebelas">eleven</string>
+	<string name="duabelas">twelve</string>
+	
+<integer-array name="mytext">
+    <item>@string/satu</item>
+    <item>@string/dua</item>
+    <item>@string/tiga</item>
+    <item>@string/empat</item>
+    <item>@string/lima</item>
+    <item>@string/enam</item>
+    <item>@string/tujuh</item>
+    <item>@string/delapan</item>
+    <item>@string/sembilan</item>
+    <item>@string/sepuluh</item>
+	<item>@string/sebelas</item>
+	<item>@string/duabelas</item>
+</integer-array>
+
+	<color name="one">#ff00ddff</color>
+	<color name="two">#ffaa66cc</color>
+	<color name="three">#ffff8800</color>
+	<color name="four">#ff669900</color>
+	<color name="five">#ffaaaaaa</color>
+
+</resources>
